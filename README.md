@@ -1,4 +1,4 @@
-# lista-tarefas-router
+# anime-list-router
 
 ## Project setup
 ```
